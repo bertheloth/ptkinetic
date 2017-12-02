@@ -1,3 +1,3 @@
 # ptkinetic
 Day la anh Phuc dang sua file cua em
-This is new
+Day la Minh. Em dang sua file
